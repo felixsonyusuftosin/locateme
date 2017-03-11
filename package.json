@@ -2,10 +2,10 @@
   "name": "locateme",
   "version": "1.0.0",
   "description": "find your friends, social app",
-  "main": "startup.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node startup.js"
+   
   },
 
   "keywords": [
