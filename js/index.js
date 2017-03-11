@@ -6,6 +6,7 @@ $(document).ready(function(){
 });
 
 function callmap(){
+    window.location.href = "../index.html";
     $(document).on('click','.next',function(){
     var item = $(this).attr('data-item');
     previous = '#'+$(this).parents().find('.bd').attr('id');
